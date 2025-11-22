@@ -1,0 +1,5 @@
+{
+  "name": "Zen Gomoku (Five-in-a-Row)",
+  "description": "A classic 2-player Gomoku game featuring an elegant wooden interface, undo functionality, and an AI assistant powered by Gemini to analyze the board state.",
+  "requestFramePermissions": []
+}
